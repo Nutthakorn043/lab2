@@ -1,0 +1,5 @@
+normalization
+ลดความซ้ำซ้อน
+ลด ERROR
+3 normalform
+ภายในตาราง
